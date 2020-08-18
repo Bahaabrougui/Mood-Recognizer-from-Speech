@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="bbba121a-0245-4c57-a8a1-158a41d66d42" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/main.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mood_recognition.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Mood_recognition.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xd.ipynb" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +41,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -70,6 +73,9 @@
       <workItem from="1596379876739" duration="4199000" />
       <workItem from="1596453407228" duration="5847000" />
       <workItem from="1596537481358" duration="1701000" />
+      <workItem from="1596707252459" duration="2995000" />
+      <workItem from="1597753264919" duration="527000" />
+      <workItem from="1597753848676" duration="6433000" />
     </task>
     <servers />
   </component>
