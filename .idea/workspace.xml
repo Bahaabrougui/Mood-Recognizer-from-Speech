@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bbba121a-0245-4c57-a8a1-158a41d66d42" name="Default Changelist" comment="">
+    <list default="true" id="bbba121a-0245-4c57-a8a1-158a41d66d42" name="Default Changelist" comment="Added live test demo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mood_recognition.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Mood_recognition.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xd.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mood_recognition.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mood_recognition.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +39,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Test/MixMatch-pytorch" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -76,7 +74,56 @@
       <workItem from="1596707252459" duration="2995000" />
       <workItem from="1597753264919" duration="527000" />
       <workItem from="1597753848676" duration="6433000" />
+      <workItem from="1597768652050" duration="120000" />
+      <workItem from="1597772196545" duration="915000" />
+      <workItem from="1597847213937" duration="1363000" />
+      <workItem from="1598184886858" duration="2376000" />
+      <workItem from="1598804033255" duration="851000" />
+      <workItem from="1598832584754" duration="868000" />
+      <workItem from="1598861742418" duration="1622000" />
+      <workItem from="1600598942340" duration="2030000" />
+      <workItem from="1600696347633" duration="1809000" />
+      <workItem from="1600790429754" duration="648000" />
+      <workItem from="1600793430852" duration="883000" />
+      <workItem from="1602515095417" duration="201000" />
+      <workItem from="1604257531517" duration="1353000" />
     </task>
+    <task id="LOCAL-00001" summary="Tested with live voices">
+      <created>1597768744723</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597768744723</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Pushed model and weights">
+      <created>1600599517941</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600599517941</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Minor update">
+      <created>1600600400994</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600600400994</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added live test demo">
+      <created>1600699831902</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600699831902</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Fix">
+      <created>1604259077573</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1604259077573</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,5 +141,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Tested with live voices" />
+    <MESSAGE value="Pushed model and weights" />
+    <MESSAGE value="Minor update" />
+    <MESSAGE value="Added live test demo" />
+    <MESSAGE value="Fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
