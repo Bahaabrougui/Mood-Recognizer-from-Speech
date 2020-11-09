@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bbba121a-0245-4c57-a8a1-158a41d66d42" name="Default Changelist" comment="Added live test demo">
+    <list default="true" id="bbba121a-0245-4c57-a8a1-158a41d66d42" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mood_recognition.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mood_recognition.ipynb" afterDir="false" />
     </list>
@@ -86,7 +86,8 @@
       <workItem from="1600790429754" duration="648000" />
       <workItem from="1600793430852" duration="883000" />
       <workItem from="1602515095417" duration="201000" />
-      <workItem from="1604257531517" duration="1353000" />
+      <workItem from="1604257531517" duration="2494000" />
+      <workItem from="1604922198499" duration="1588000" />
     </task>
     <task id="LOCAL-00001" summary="Tested with live voices">
       <created>1597768744723</created>
@@ -123,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604259077573</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added live test demo">
+      <created>1604259383484</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1604259383484</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,6 +155,7 @@
     <MESSAGE value="Pushed model and weights" />
     <MESSAGE value="Minor update" />
     <MESSAGE value="Added live test demo" />
+    <MESSAGE value="Fix print" />
     <MESSAGE value="Fix" />
     <option name="LAST_COMMIT_MESSAGE" value="Fix" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
